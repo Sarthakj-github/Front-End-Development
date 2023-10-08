@@ -1,0 +1,41 @@
+#bd{
+    text-align: center;
+    font-family: cursive;
+    padding: 20px;
+    background-color: black;
+    color: black;
+    background-image: url(cloud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(110%);
+    text-shadow: 1px 1px white;
+
+}
+#content{
+    margin: 50px;
+    text-shadow: 0.1px 0.1px white;
+}
+#imag{
+    border-color: black;
+    border-style: groove;
+    border-radius: 15%;
+    border-width: 5px;
+    padding: 5px;
+    width: 220px;
+    height: 250px;
+}
+a{
+    text-decoration: underline;
+}
+div{
+    border-color: black;
+    border-style: dashed;
+    border-radius: 13%;
+    border-width: 5px;
+}
+#name{
+    font-weight: 400;
+    font-style:italic;
+    text-shadow: 1px 1px white;
+    text-decoration: underline ;
+}
